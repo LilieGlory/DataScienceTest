@@ -1,0 +1,2 @@
+À l'aide de regex ou autres techniques de *data cleaning* de votre choix, trouvez le 6e chiffre de la somme de toutes les lignes et colonnes de données numériques dans le fichier "Worldometers_data.csv "Remplacez tous les NaN par 0 et supprimez tous les caractères non numériques. Par exemple, '1,23%4' doit devenir 1234. 
+La somme est 16570X80.27. Quel est le chiffre X ?
